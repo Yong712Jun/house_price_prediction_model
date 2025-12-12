@@ -17,3 +17,5 @@ ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+.DS_Store
